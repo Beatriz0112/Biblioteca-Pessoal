@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca Pessoal</title>
+    <link rel= "stylesheet" href= "styles.css">
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+      </head>
+</head>
+<body>
+    <header>
+        <h1>Base Pessoal de Livros</h1>
+    </header>
+    <main>
+        <section>
+            <input type="text" placeholder="Digite o livro de sua escolha"
+            id= "campo-pesquisa">
+            <button onclick= "pesquisar()"> Pesquisar</button>
+        </section>
+        <section class= "resultados-pesquisa"
+        id= "resultados-pesquisa">
+        </section>
+    </main>
+    <footer>
+        <p> 2024 - Biblioteca Pessoal. Todos os Direitos reservados
+        </p>
+        <p> Entre em contato pelo email: ibtarze.blibiotecapessoal@gmail.com</p>
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,4 +1,4 @@
-## **README.md Descontraído para sua Biblioteca Pessoal**
+## **README.md Descontraído para sua Biblioteca Pessoal - Imersão Dev com Google Gemini**
 
 ###  Sua Biblioteca Pessoal, Sempre à Mão!
 

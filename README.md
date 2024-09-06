@@ -37,12 +37,3 @@ Todo mundo é bem-vindo a contribuir para esse projeto! Se você tiver alguma id
 **Vamos juntos construir a melhor biblioteca online do mundo!**
 
 **#biblioteca #desenvolvimentoweb #javascript #html #css**
-
-**Observações:**
-
-* **Personalize:** Adapte este README para o seu projeto, adicionando mais detalhes sobre as funcionalidades, desafios enfrentados e planos futuros.
-* **Imagens:** Inclua imagens da sua aplicação para torná-la mais visualmente atraente.
-* **Links:** Adicione links para o repositório, para a documentação das tecnologias utilizadas e para outros projetos relacionados.
-* **Humor:** Use uma linguagem mais informal e divertida para tornar a leitura mais agradável.
-
-**Lembre-se:** O README é a porta de entrada para o seu projeto. Use-o para criar uma primeira impressão positiva e convidar outros desenvolvedores a participarem.
